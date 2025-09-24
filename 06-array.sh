@@ -8,4 +8,4 @@ echo "second fruit is: ${FRUITS[1]}"
 echo "third fruit is: ${FRUITS[2]}"
 
 
-cho "first fruit is: ${FRUITS[@]}"   #To print all fruits @ used
+echo "first fruit is: ${FRUITS[@]}"   #To print all fruits @ used
